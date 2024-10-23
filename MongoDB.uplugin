@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MongoDB",
+	"Description": "Simple plugin to use MongoDB into UE",
+	"Category": "Other",
+	"CreatedBy": "Lostburn",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MongoDB",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
